@@ -77,7 +77,7 @@ const EditStoreDetails: React.FC = () => {
           </div>
 
           <div className="form-group row">
-            <label className="col-sm-2 col-form-label">Store Name</label>
+            <label className="col-sm-2 col-form-label">Phone</label>
             <div className="col-sm-10">
               <input
                 type="text"
